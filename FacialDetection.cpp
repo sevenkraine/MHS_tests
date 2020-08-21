@@ -7,12 +7,13 @@ using namespace cv;
 using namespace std;
 int main()
 {
-    //std::string image_path = samples::findFile("logo.png");
-    VideoCapture cap;
-    cap.open(-1, cv::CAP_V4L2);
-    if(cap.isOpened()==0)std::cout << "camera not working" << endl;
-    Mat img ;
-    cap.read(img);
+    std::string image_path = "../randomFace.jpeg";
+    
+    
+    Mat img;
+
+    img = imread(image_path);
+    //cap.read(img);
     if(img.empty())
     {
         std::cout << "Could not read the image: " << endl;
