@@ -381,12 +381,6 @@ FacialDetection_SOURCE_DIR:STATIC=/home/wolf/Documents/stevenCode/MHS_tests/MHS_
 //The directory containing a CMake configuration file for OpenCV.
 OpenCV_DIR:PATH=/usr/local/lib/cmake/opencv4
 
-//Value Computed by CMake
-Project_BINARY_DIR:STATIC=/home/wolf/Documents/stevenCode/MHS_tests/MHS_tests/build
-
-//Value Computed by CMake
-Project_SOURCE_DIR:STATIC=/home/wolf/Documents/stevenCode/MHS_tests/MHS_tests
-
 
 ########################
 # INTERNAL cache entries

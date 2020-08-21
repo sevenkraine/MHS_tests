@@ -33,6 +33,9 @@ CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4
 CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4/opencv2/core/vsx_utils.hpp
 CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4/opencv2/highgui.hpp
 CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4/opencv2/imgcodecs.hpp
+CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4/opencv2/imgproc.hpp
+CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4/opencv2/objdetect.hpp
+CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp
 CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4/opencv2/opencv_modules.hpp
 CMakeFiles/FacialDetection.dir/FacialDetection.cpp.o: /usr/local/include/opencv4/opencv2/videoio.hpp
 
